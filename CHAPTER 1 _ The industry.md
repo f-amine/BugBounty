@@ -70,3 +70,35 @@ When reporting a vulnerability, it's helpful to recommend possible steps the sec
 ### 8- Validate the Report
 
 When submitting a vulnerability report, it's important to validate the report to minimize the possibility of submitting an invalid report. This involves going through the report one last time to ensure that there are no technical errors or anything that might prevent the security team from understanding it. It's also important to follow the steps to reproduce to ensure that they contain enough details and to examine all POC files and code to make sure they work. By validating the report, you can ensure that it is clear, accurate, and effective in communicating the vulnerability to the security team.
+
+# Building a Relationship with the Development Team
+
+### Understanding Report States :
+
+after submiting the report, the security team classify it into a report state showcasing the current state of your report (mitigation process) these are the different report states that u might encounter:
+- Need More Information
+- Informative (the security team dont think the bug is severe enough so they wont fix it)
+- Duplicate (another bug bounty hunter found the bug first)
+- Triaged (the security team will fix the issue and give you the bounty)
+- Resolved
+### Dealing with Conflict
+
+### Building a Partnership
+
+### Understanding Why You’re Failing
+- Why You’re Not Finding Bugs:
+1. You Participate in the Wrong Programs
+2. You Don’t Stick to a Program
+3. You Don’t Recon
+4. You Go for Only Low-Hanging Fruit (dont just use vulnerability scanner)
+5. You Don’t Get into Private Programs.
+
+- Why Your Reports Get Dismissed:
+1. You Don’t Read the Bounty Policy
+2. You Don’t Put Yourself in the Organization’s Shoes
+3. You Don’t Chain Bugs
+4. You Write Bad Reports
+-  What to Do When You’re Stuck
+1. Take a Break!
+2. Build Your Skill Set
+3. Gain a Fresh Perspective
