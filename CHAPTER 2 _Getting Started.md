@@ -5,11 +5,11 @@
 
 ### The Domain Name System
 
-![e4d6d09df6f8b31405d8638491337089.png](../_resources/e4d6d09df6f8b31405d8638491337089.png)
+![e4d6d09df6f8b31405d8638491337089.png](/_resources/e4d6d09df6f8b31405d8638491337089.png)
 
 ### Internet Ports
 
-![2856f47d038fcb55d10c288cefaec7a4.png](../_resources/2856f47d038fcb55d10c288cefaec7a4.png)
+![2856f47d038fcb55d10c288cefaec7a4.png](/_resources/2856f47d038fcb55d10c288cefaec7a4.png)
 
 ### HTTP Requests and Responses
 
@@ -21,7 +21,7 @@ HTTP is a set of rules that specifies how to structure and interpret internet me
 
 example of GET HTTP request
 
-![1d8a4c6486a24c7870840cdb482369db.png](../_resources/1d8a4c6486a24c7870840cdb482369db.png)
+![1d8a4c6486a24c7870840cdb482369db.png](/_resources/1d8a4c6486a24c7870840cdb482369db.png)
 
 Examples of HTTP headers:
 
@@ -33,7 +33,7 @@ Examples of HTTP headers:
 - User-Agent: Contains information about the user agent originating the request.
 
 example of HTTP Response:
-![9e9f86a4c2f9bd82bf2d865ec51e010c.png](../_resources/9e9f86a4c2f9bd82bf2d865ec51e010c.png)
+![9e9f86a4c2f9bd82bf2d865ec51e010c.png](/_resources/9e9f86a4c2f9bd82bf2d865ec51e010c.png)
 
 ### Internet Security Controls !
 
@@ -42,10 +42,10 @@ example of HTTP Response:
 
 **2- Session Management and HTTP Cookies**
 
-![7eea6623cd3405139a7bea2d115c286e.png](../_resources/7eea6623cd3405139a7bea2d115c286e.png)
+![7eea6623cd3405139a7bea2d115c286e.png](/_resources/7eea6623cd3405139a7bea2d115c286e.png)
 
 
-![ccae9cc0558e39111520e913908c3127.png](../_resources/ccae9cc0558e39111520e913908c3127.png)
+![ccae9cc0558e39111520e913908c3127.png](/_resources/ccae9cc0558e39111520e913908c3127.png)
 
 **3- Token-Based Authentication**
 In session-based authentication, the server stores your information and uses a
