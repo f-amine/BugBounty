@@ -1,7 +1,7 @@
 # How the Internet Works
 
 ### The Client-Server Model
-![1dd6ba4e2508024b3309fdf89acb95ff.png](../_resources/1dd6ba4e2508024b3309fdf89acb95ff.png)
+![1dd6ba4e2508024b3309fdf89acb95ff.png](/_resources/1dd6ba4e2508024b3309fdf89acb95ff.png)
 
 ### The Domain Name System
 
